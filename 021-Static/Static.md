@@ -33,3 +33,45 @@ A good idea is to mark your functions and variables Static (the ones outside cla
 
 ## Static (inside) for Classes and Structs
 
+The usage of `static` inside of a class/struct means that we are going to have **only one instance** of this variable/method across this class/struct, and they are accessible by all class instances, you access this static method/variable through the class itself and not by its instances.
+
+_Main.cpp_
+```cpp
+// we could use a class here, it doesn't matter
+struct Entity
+{
+    static int x, y;
+
+    // can reference only static variables
+    static void Print()
+    {
+        std::cout << x << ", " << y << std::endl;
+    }
+}
+
+int Entity::x;
+int Entity::y;
+
+int main()
+{
+    //Entity e1;
+    Entity::x = 2;
+    Entity::y = 3;
+
+    //Entity e2;
+    Entity::x = 5;
+    Entity::y = 8;
+
+    //e1.Print();
+    //e2.Print();
+    Entity::Print();
+
+    std::cin.get();
+}
+```
+
+_Static.cpp_
+
+```cpp
+int s_Variable = 5;
+```

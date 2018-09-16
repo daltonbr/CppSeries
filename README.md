@@ -7,6 +7,7 @@ These are my personal notes and codes from an awesome [C++ Series by TheCherno](
 * [Pointers in C++](016-Pointers/Pointers.md)
 * [References in C++](017-References/References.md)
 * [Classes](018-Classes/Classes.md) (and a little bit of Structs)
-* [Static](021-Static/Static.md)
+* [Static in C++](021-Static/Static.md)
+  * Inside and outside of Classes/Structs
 
 The number on the folders are the index of the videos on the Youtube Playlist, not every folder have a Visual Studio project, most of the time I just take some notes.
