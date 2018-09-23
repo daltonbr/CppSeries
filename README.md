@@ -13,6 +13,6 @@ These are my personal notes and codes from an awesome [C++ Series by TheCherno](
 * [Constructors in C++](025-Constructors/Constructors.md)
 * [Destructors in C++](026-Destructors/Destructors.md)
 * [Inheritance in C++](027-Inheritance/Inheritance.md)
-
+* [Virtual Functions in C++](028-VirtualFunctions/VirtualFunctions.md)
 
 The number on the folders are the index of the videos on the Youtube Playlist, not every folder have a Visual Studio project, most of the time I just take some notes.
