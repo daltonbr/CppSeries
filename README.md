@@ -11,5 +11,6 @@ These are my personal notes and codes from an awesome [C++ Series by TheCherno](
   * Inside and outside of Classes/Structs
 * [Enums](024-Enums/Enums.md)
 * [Constructors in C++](025-Constructors/Constructors.md)
+* [Destructors in C++](026-Destructors/Destructors.md)
 
 The number on the folders are the index of the videos on the Youtube Playlist, not every folder have a Visual Studio project, most of the time I just take some notes.
