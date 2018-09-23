@@ -14,5 +14,6 @@ These are my personal notes and codes from an awesome [C++ Series by TheCherno](
 * [Destructors in C++](026-Destructors/Destructors.md)
 * [Inheritance in C++](027-Inheritance/Inheritance.md)
 * [Virtual Functions in C++](028-VirtualFunctions/VirtualFunctions.md)
+* [Interfaces in C++](029-Interfaces/Interfaces.md) (Pure Virtual Functions) - Abstract class, 'interfaces'
 
 The number on the folders are the index of the videos on the Youtube Playlist, not every folder have a Visual Studio project, most of the time I just take some notes.
