@@ -4,16 +4,18 @@ These are my personal notes and codes from an awesome [C++ Series by TheCherno](
 
 ## Topics & Videos
 
-* [Pointers in C++](016-Pointers/Pointers.md)
-* [References in C++](017-References/References.md)
+* [Pointers](016-Pointers/Pointers.md)
+* [References](017-References/References.md)
 * [Classes](018-Classes/Classes.md) (and a little bit of Structs)
-* [Static in C++](021-Static/Static.md)
+* [Static](021-Static/Static.md)
   * Inside and outside of Classes/Structs
 * [Enums](024-Enums/Enums.md)
-* [Constructors in C++](025-Constructors/Constructors.md)
-* [Destructors in C++](026-Destructors/Destructors.md)
-* [Inheritance in C++](027-Inheritance/Inheritance.md)
-* [Virtual Functions in C++](028-VirtualFunctions/VirtualFunctions.md)
-* [Interfaces in C++](029-Interfaces/Interfaces.md) (Pure Virtual Functions) - Abstract class, 'interfaces'
+* [Constructors](025-Constructors/Constructors.md)
+* [Destructors](026-Destructors/Destructors.md)
+* [Inheritance](027-Inheritance/Inheritance.md)
+* [Virtual Functions](028-VirtualFunctions/VirtualFunctions.md)
+* [Interfaces](029-Interfaces/Interfaces.md) (Pure Virtual Functions) - Abstract class, 'interfaces'
+* [Visibility](030-Visibility/Visibility.md)
+* [Arrays](031-Arrays/Arrays.md)
 
 The number on the folders are the index of the videos on the Youtube Playlist, not every folder have a Visual Studio project, most of the time I just take some notes.
