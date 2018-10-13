@@ -17,5 +17,6 @@ These are my personal notes and codes from an awesome [C++ Series by TheCherno](
 * [Interfaces](029-Interfaces/Interfaces.md) (Pure Virtual Functions) - Abstract class, 'interfaces'
 * [Visibility](030-Visibility/Visibility.md)
 * [Arrays](031-Arrays/Arrays.md)
+* [Strings](032-Strings/Strings.md)
 
 The number on the folders are the index of the videos on the Youtube Playlist, not every folder have a Visual Studio project, most of the time I just take some notes.
