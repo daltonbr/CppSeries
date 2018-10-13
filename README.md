@@ -20,5 +20,6 @@ These are my personal notes and codes from an awesome [C++ Series by TheCherno](
 * [Strings](032-Strings/Strings.md)
   * [String Literals](032-Strings/StringLiterals.md)
 * [const keyword](034-Const/Const.md)
+* [Member Initializer Lists]
 
 The number on the folders are the index of the videos on the Youtube Playlist, not every folder have a Visual Studio project, most of the time I just take some notes.
