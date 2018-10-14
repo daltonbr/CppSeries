@@ -21,6 +21,7 @@ These are my personal notes and codes from an awesome [C++ Series by TheCherno](
   * [String Literals](032-Strings/StringLiterals.md)
 * [const keyword](034-Const/Const.md)
 * [Member Initializer Lists](036-MemberInitializerLists/MemberInitializerLists.md)
+* [Ternary Operators](037-TernaryOperators/TernaryOperators.md)
 * [Create/Instantiate Objects](038-InstantiateObjects/InstantiateObjects.md) Heap vs Stack
 * [New Keyword](039-NewKeyword/NewKeyword.md)
 
