@@ -4,9 +4,9 @@
 
 In C++ we can choose where to instantiate a new object,  in the **heap** or in the **stack**.
 
-**Stack** objects have an **automatic lifespan**, as soons as the object go out-of-scope that object is gone. It's automatically handled for us. The obejcts in that _stack frame_ are freed up.
+**Stack** objects have an **automatic lifespan**, as soon as the object go out-of-scope that object is gone. It's automatically handled for us. The objects in that _stack frame_ are freed up.
 
-The **heap** is a different (and misterious) place. Whenever an object is allocated in there, it will sits there until you actively deallocated it.
+The **heap** is a different (and mysterious) place. Whenever an object is allocated in there, it will sits there until you actively deallocated it.
 
 We should prefer to create objects on the **Stack** whenever is possible, it's the fastest way, the managed way.
 
@@ -33,7 +33,7 @@ We should prefer to create objects on the **Stack** whenever is possible, it's t
 * We use **pointers** to hold the reference for Heap Allocation
 * We use the `new` keyword
 * Allocate on the Heap takes a hit in **performance**
-* We need to **mannualy free** this allocated memory later, we don't have a _Garbage Collector_ (GC) in C++, we achieve this with the `delete` keyword.
+* We need to **manualy free up** this allocated memory later, we don't have a _Garbage Collector_ (GC) in C++, we achieve this with the `delete` keyword.
 
 ```cpp
 // allocated in Heap
