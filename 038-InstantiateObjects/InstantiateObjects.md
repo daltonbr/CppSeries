@@ -33,7 +33,7 @@ We should prefer to create objects on the **Stack** whenever is possible, it's t
 * We use **pointers** to hold the reference for Heap Allocation
 * We use the `new` keyword
 * Allocate on the Heap takes a hit in **performance**
-* We need to **manualy free up** this allocated memory later, we don't have a _Garbage Collector_ (GC) in C++, we achieve this with the `delete` keyword.
+* We need to **manually free up** this allocated memory later, we don't have a _Garbage Collector_ (GC) in C++, we achieve this with the `delete` keyword.
 
 ```cpp
 // allocated in Heap

@@ -3,7 +3,7 @@
 [Video](https://www.youtube.com/watch?v=1nfuYMXjZsA&index=36&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
 
 It's a way to us to initialize our class members
-It's usually made in the constuctor
+It's usually made in the constructor
 
 Initialize the class member in the same order as they are declared, just to avoid any dependency problem
 
