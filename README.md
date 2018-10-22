@@ -24,5 +24,6 @@ These are my personal notes and codes from an awesome [C++ Series by TheCherno](
 * [Ternary Operators](037-TernaryOperators/TernaryOperators.md)
 * [Create/Instantiate Objects](038-InstantiateObjects/InstantiateObjects.md) Heap vs Stack
 * [New Keyword](039-NewKeyword/NewKeyword.md)
+* [Implicit Conversion and the Explicit Keyword](./040-ImplicitExplicit/ImplicitExplicit.md)
 
 The number on the folders are the index of the videos on the Youtube Playlist, not every folder have a Visual Studio project, most of the time I just take some notes.
