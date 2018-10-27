@@ -4,7 +4,7 @@
 
 Arrays are basically a pointers.
 They go very well with for loops.
-They store their data contiguosly.
+They store their data contiguously.
 We need to keep tabs in the size of the array ourselves.
 
 ```cpp

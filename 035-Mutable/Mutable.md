@@ -13,35 +13,35 @@ Has 2 fairly different usages, one is related to [Const](../034-Const/Const.md);
 class Entity
 {
 private:
-	std::string m_Name;
-	mutable int m_DebugCount = 0;  // alowing const methods to change this
+    std::string m_Name;
+    mutable int m_DebugCount = 0;  // alowing const methods to change this
 public:
-	const std::string& GetName() const
-	{
-		m_DebugCount++;
-		return m_Name;
-	}
+    const std::string& GetName() const
+    {
+        m_DebugCount++;
+        return m_Name;
+    }
 };
 
 int main()
 {
-	const Entity e;
-	e.GetName();
+    const Entity e;
+    e.GetName();
 
-	int x = 8;
+    int x = 8;
 
-	// lambda function - a 'throw-away' function
-	// this lambda is receiving parameters by value
-	// marking this lambda as mutable, allow us to modify other variables
-	auto f = [=]() mutable
-	{
-		x++;
-		std::cout << "Hello" << std::endl;
-	};
+    // lambda function - a 'throw-away' function
+    // this lambda is receiving parameters by value
+    // marking this lambda as mutable, allow us to modify other variables
+    auto f = [=]() mutable
+    {
+        x++;
+        std::cout << "Hello" << std::endl;
+    };
 
-	f();
-	// x = 8
+    f();
+    // x = 8
 
-	std::cin.get();
+    std::cin.get();
 }
 ```

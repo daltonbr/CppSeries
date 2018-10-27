@@ -51,6 +51,7 @@ int main()
 ```
 
 Instead if we want to change a reference, we need to use a pointer
+
 ```cpp
 int main()
 {

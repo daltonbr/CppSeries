@@ -8,7 +8,7 @@ The [ternary operator](https://www.cprogramming.com/reference/operators/ternary-
 
 `int five_divided_by_x = ( x != 0 ? 5 / x : 0 );`
 
-This operator is a syntatic sugar for a `if-else` statement
+This operator is a syntactic sugar for a `if-else` statement
 
 ```cpp
 
@@ -30,7 +30,6 @@ int main()
 ```
 
 ```cpp
-
 // nesting can become a little hard to read
 // so you should consider avoiding
 s_Speed = s_Level > 5 ? s_Level > 10 ? 10 : 5 : 5;

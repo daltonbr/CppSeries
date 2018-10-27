@@ -53,12 +53,12 @@ This is a subject for another time, but they are allocated in Heap and get that 
 class Entity
 {
 private:
-	std::string m_Name;	
+    std::string m_Name;	
 public:
-	Entity() : m_Name("Unknown") {}
-	Entity(const std::string& name)	: m_Name(name) {}
+    Entity() : m_Name("Unknown") {}
+    Entity(const std::string& name)	: m_Name(name) {}
 
-	const std::string& GetName() const { return m_Name; }
+    const std::string& GetName() const { return m_Name; }
 };
 
 int main()

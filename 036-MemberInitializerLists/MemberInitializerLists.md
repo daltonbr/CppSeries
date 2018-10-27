@@ -17,42 +17,42 @@ Initialize the class member in the same order as they are declared, just to avoi
 class Entity
 {
 private:
-	std::string m_Name;
-	int m_Score;
+    std::string m_Name;
+    int m_Score;
 public:
-	// traditional constructor
-	/*Entity()		
-	{
-		m_Name = "Unknown";
-	}*/
+    // traditional constructor
+    /*Entity()		
+    {
+        m_Name = "Unknown";
+    }*/
 
-	// using member initializer lists
-	Entity()
-		: m_Name("Unknown"), m_Score(0)
-	{		
-	}
+    // using member initializer lists
+    Entity()
+        : m_Name("Unknown"), m_Score(0)
+    {		
+    }
 
-	// old way - not efficient
-	Entity(const std::string& name)
-	{
-		m_Name = name;
-		m_Score = 0;
-	}
+    // old way - not efficient
+    Entity(const std::string& name)
+    {
+        m_Name = name;
+        m_Score = 0;
+    }
 
-	const std::string& GetName() const
-	{
-		return m_Name;
-	}
+    const std::string& GetName() const
+    {
+        return m_Name;
+    }
 };
 
 int main()
 {
-	Entity e0;
-	std::cout << e0.GetName() << std::endl;
+    Entity e0;
+    std::cout << e0.GetName() << std::endl;
 
-	Entity e1("Cherno");
-	std::cout << e1.GetName() << std::endl;
-	
-	std::cin.get();
+    Entity e1("Cherno");
+    std::cout << e1.GetName() << std::endl;
+    
+    std::cin.get();
 }
 ```

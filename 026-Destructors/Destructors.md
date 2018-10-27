@@ -6,7 +6,6 @@ Destructor acts in heap and stack objects.
 
 Destructor are special methods, that starts with `~` followed by the name of the class.
 
-
 ```cpp
 class Entity
 {

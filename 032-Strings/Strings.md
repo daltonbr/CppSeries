@@ -33,37 +33,37 @@ Type | Definition
 
 int main()
 {
-	// This is an "emulation" of strings in cpp
-	// Const is used because strings are immutable
-	//const char* name = "Cherno";
+    // This is an "emulation" of strings in cpp
+    // Const is used because strings are immutable
+    //const char* name = "Cherno";
 
-	std::string name = "Dalton"; // "Dalton" is a const char*
-	std::cout << name << std::endl;
+    std::string name = "Dalton"; // "Dalton" is a const char*
+    std::cout << name << std::endl;
 
-	//std::string hi = "Hello" + " world!";  // Error
-	std::string hi = std::string("Hello") + " world!";  // Error
-	//name.size();
+    //std::string hi = "Hello" + " world!";  // Error
+    std::string hi = std::string("Hello") + " world!";  // Error
+    //name.size();
 
-	// Find a substring
-	if (name.find("on") != std::string::npos)	// npos is a illegal position
-	{
-		std::cout << "find the substring";
-	}
+    // Find a substring
+    if (name.find("on") != std::string::npos)	// npos is a illegal position
+    {
+        std::cout << "find the substring";
+    }
 
-	std::cin.get();
+    std::cin.get();
 }
 
 // we are passing here a copy (value) not reference, it's slow
 void PrintString(std::string string)
 {
-	string += "h";
-	std::cout << string << std::endl;
+    string += "h";
+    std::cout << string << std::endl;
 }
 
 // with 'const' if promise to not modify the input parameter and passing by reference (&) it's faster
 void PrintString(const std::string& string)
 {
-	std::cout << string << std::endl;
+    std::cout << string << std::endl;
 }
 
 ```

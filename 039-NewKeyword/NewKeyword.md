@@ -4,7 +4,7 @@
 
 * `new` is a "deep keyword"
 * `new` is very different than in managed languages like C# and Java.
-* `new int` will "ask" for the OS to find 4 bytes of contiguous memory, and it will return a pointer to that memory address. This process will have it's own overhead, even though the OS are optmized to do this kind of operation. Just keep in mind that we have this overhead.
+* `new int` will "ask" for the OS to find 4 bytes of contiguous memory, and it will return a pointer to that memory address. This process will have it's own overhead, even though the OS are optimized to do this kind of operation. Just keep in mind that we have this overhead.
 * Besides allocating the memory for us, `new` also calls the default constructor, if anyone is called (different than in C#, that will return a null pointer).
 * `new` is an operator in C++, as `+`, `-`, or `%`; so it also can be overloaded.
   * Usually, `new` will call the c function `malloc, and then the default constructor

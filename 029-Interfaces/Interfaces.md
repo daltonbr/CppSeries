@@ -13,7 +13,6 @@ In OOP it's common to create classes that only provides method signatures, this 
 C++ doesn't use the `interface` keyword like C#, but it's basically the same concept.
 
 ```cpp
-
 class Printable
 {
 public:

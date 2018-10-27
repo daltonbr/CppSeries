@@ -4,5 +4,5 @@
 
 Visibility is a concept inherent of OOP.
 
-In C++ we have three types of visibilty modifiers `private`, `public` and `protected`  
+In C++ we have three types of visibility modifiers `private`, `public` and `protected`  
 In classes the default visibility is private; in structs in public.

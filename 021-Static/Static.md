@@ -10,18 +10,19 @@ A Static variable **inside** a Class or a Struct, it will share memory with all 
 
 ## External Linking (or Linkage) - Static Outside of a Class/Struct
 
-_Main.cpp_
+### Main.cpp
+
 ```cpp
 extern int s_Variable;
 
 int main()
 {
-	std::cout << s_Variable << std::endl;
-	std::cin.get();
+    std::cout << s_Variable << std::endl;
+    std::cin.get();
 }
 ```
 
-_Static.cpp_
+### Static.cpp
 
 ```cpp
 int s_Variable = 5;
@@ -35,7 +36,8 @@ A good idea is to mark your functions and variables Static (the ones outside cla
 
 The usage of `static` inside of a class/struct means that we are going to have **only one instance** of this variable/method across this class/struct, and they are accessible by all class instances, you access this static method/variable through the class itself and not by its instances.
 
-_Main.cpp_
+### Main.cpp
+
 ```cpp
 // we could use a class here, it doesn't matter
 struct Entity
@@ -70,7 +72,7 @@ int main()
 }
 ```
 
-_Static.cpp_
+### Static.cpp
 
 ```cpp
 int s_Variable = 5;
