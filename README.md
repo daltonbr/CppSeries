@@ -29,5 +29,6 @@ These are my personal notes and codes from an awesome [C++ Series by TheCherno](
 * [this keyword](042-ThisKeyword/ThisKeyword.md)
 * [Object Lifetime - Stack/Scope lifetimes](043-ObjectLifetime/ObjectLifetime.md)
 * [Smart Pointers](044-SmartPointers/SmartPointers.md)
+* [Copying and Copy Constructors](045-CopyingAndCopyingConstructors/CopyingAndCopyingConstructors.md)
 
 The number on the folders are the index of the videos on the YouTube Playlist, not every folder have a Visual Studio project, most of the time I just take some notes.
