@@ -32,5 +32,6 @@ These are my personal notes and codes from an awesome [C++ Series by TheCherno](
 * [Copying and Copy Constructors](045-CopyingAndCopyingConstructors/CopyingAndCopyingConstructors.md)
 * [Arrow Operator ->](046-ArrowOperator/ArrowOperator.md)
 * [Dynamic Arrays `std::vector` and Optimizations](047-DynamicArrays/DynamicArrays.md)
+* [Using Libraries](049-UsingLibraries/UsingLibraries.md) (Static Linking)
 
 The number on the folders are the index of the videos on the YouTube Playlist, not every folder have a Visual Studio project, most of the time I just take some notes.
