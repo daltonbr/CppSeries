@@ -33,5 +33,7 @@ These are my personal notes and codes from an awesome [C++ Series by TheCherno](
 * [Arrow Operator ->](046-ArrowOperator/ArrowOperator.md)
 * [Dynamic Arrays `std::vector` and Optimizations](047-DynamicArrays/DynamicArrays.md)
 * [Using Libraries](049-UsingLibraries/UsingLibraries.md) (Static Linking)
+* [Using Dynamic Libraries] (050-UsingDynamicLibraries/UsingDynamicLibraries.md)
+[WIP] * [Making/Working with Libraries - Multiple Projects in Visual Studio](051-MakingAndWorkingWithLibraries/MakingAndWorkingWithLibraries)
 
 The number on the folders are the index of the videos on the YouTube Playlist, not every folder have a Visual Studio project, most of the time I just take some notes.
