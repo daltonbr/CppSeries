@@ -36,5 +36,6 @@ These are my personal notes and codes from an awesome [C++ Series by TheCherno](
 * [Using Dynamic Libraries](050-UsingDynamicLibraries/UsingDynamicLibraries.md)
 * [Making/Working with Libraries - Multiple Projects in Visual Studio](051-MakingAndWorkingWithLibraries/Game)
 * [Templates](053-Templates/Templates.md)
+* [Stack vs Heap Memory](054-StackVsHeapMemory/StackVsHeapMemory.md)
 
 The number on the folders are the index of the videos on the YouTube Playlist, not every folder have a Visual Studio project, most of the time I just take some notes.
