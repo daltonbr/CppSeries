@@ -38,5 +38,7 @@ These are my personal notes and codes from an awesome [C++ Series by TheCherno](
 * [Templates](053-Templates/Templates.md)
 * [Stack vs Heap Memory](054-StackVsHeapMemory/StackVsHeapMemory.md)
 * [Macros](055-Macros/Macros.md)
+* [Auto keyword](056-AutoKeyword/AutoKeyword.md)
+* [Static arrays](057-StaticArrays/StaticArrays.md)
 
 The number on the folders are the index of the videos on the YouTube Playlist, not every folder have a Visual Studio project, most of the time I just take some notes.
