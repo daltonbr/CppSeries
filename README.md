@@ -40,5 +40,6 @@ These are my personal notes and codes from an awesome [C++ Series by TheCherno](
 * [Macros](055-Macros/Macros.md)
 * [Auto keyword](056-AutoKeyword/AutoKeyword.md)
 * [Static arrays](057-StaticArrays/StaticArrays.md)
+* [Function Pointers](058-FunctionPointers/FunctionPointers.md)
 
 The number on the folders are the index of the videos on the YouTube Playlist, not every folder have a Visual Studio project, most of the time I just take some notes.
