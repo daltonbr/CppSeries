@@ -42,5 +42,6 @@ These are my personal notes and codes from an awesome [C++ Series by TheCherno](
 * [Static arrays](057-StaticArrays/StaticArrays.md)
 * [Function Pointers](058-FunctionPointers/FunctionPointers.md)
 * [Lambdas](059-Lambdas/Lambdas.md)
+* [Namespaces](061-Namespaces/Namespaces.md)
 
 The number on the folders are the index of the videos on the YouTube Playlist, not every folder have a Visual Studio project, most of the time I just take some notes.
