@@ -45,5 +45,6 @@ These are my personal notes and codes from an awesome [C++ Series by TheCherno](
 * [Namespaces](061-Namespaces/Namespaces.md)
 * [Threads](062-Threads/Threads.md)
 * [Timing](063-Timing/Timing.md)
+* [Multidimensional Arrays](064-MultidimensionArrays/MultidimensionalArrays.md)
 
 The number on the folders are the index of the videos on the YouTube Playlist, not every folder have a Visual Studio project, most of the time I just take some notes.
