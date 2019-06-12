@@ -48,5 +48,6 @@ These are my personal notes and codes from an awesome [C++ Series by TheCherno](
 * [Multidimensional Arrays](064-MultidimensionArrays/MultidimensionalArrays.md)
 * [Sorting](065-Sorting/Sorting.md)
 * [Type Punning](066-TypePunning/TypePunning.md)
+* [Unions](067-Unions/Unions.md)
 
 The number on the folders are the index of the videos on the YouTube Playlist, not every folder have a Visual Studio project, most of the time I just take some notes.
