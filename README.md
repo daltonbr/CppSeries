@@ -49,5 +49,6 @@ These are my personal notes and codes from an awesome [C++ Series by TheCherno](
 * [Sorting](065-Sorting/Sorting.md)
 * [Type Punning](066-TypePunning/TypePunning.md)
 * [Unions](067-Unions/Unions.md)
+* [Virtual Destructors](068-VirtualDestructors/VirtualDestructors.md)
 
 The number on the folders are the index of the videos on the YouTube Playlist, not every folder have a Visual Studio project, most of the time I just take some notes.
