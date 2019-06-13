@@ -50,5 +50,6 @@ These are my personal notes and codes from an awesome [C++ Series by TheCherno](
 * [Type Punning](066-TypePunning/TypePunning.md)
 * [Unions](067-Unions/Unions.md)
 * [Virtual Destructors](068-VirtualDestructors/VirtualDestructors.md)
+* [Casting in C++](069-Casting/Casting.md)
 
 The number on the folders are the index of the videos on the YouTube Playlist, not every folder have a Visual Studio project, most of the time I just take some notes.
