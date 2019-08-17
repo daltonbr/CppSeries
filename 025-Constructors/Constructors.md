@@ -30,13 +30,13 @@ public:
 class Log
 {
 private:
-    Log() {}    // a private hiden constructor
+    Log() {}    // a private hidden constructor
 public:
     static void Write()
     {
     }
 
-    // if we don't want to suply a default constructor we need to be explicit
+    // if we don't want to supply a default constructor we need to be explicit
     Log() = delete;
 }
 
