@@ -54,6 +54,8 @@ A huge thank to you mate! If you like this material please consider contributing
 * [69 - Casting in C++](069-Casting/Casting.md)
 * [71 - Safety in Modern C++](071-SafetyInModernCpp/SafetyInModernCpp.md)
 * [72 - Precompiled Headers (PCH) in C++](072-PrecompiledHeaders/PrecompiledHeaders.md)
+* [73 - Dynamic Casting](073-DYnamicCasting/DynamicCasting.md)
+* [74 - Benchmarking](074-Benchmarking/Benchmarking.md)
 
 ## Considerations
 
