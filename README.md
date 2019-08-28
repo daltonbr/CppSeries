@@ -57,6 +57,7 @@ A huge thank to you mate! If you like this material please consider contributing
 * [73 - Dynamic Casting](073-DYnamicCasting/DynamicCasting.md)
 * [74 - Benchmarking](074-Benchmarking/Benchmarking.md)
 * [75 - Structured Bindings (C++17)](075-StructuredBindings/StructuredBindings.md)
+* [78 - Handling Optional Data - ```std::optional```](078-OptionalData/OptionalData.md)
 
 ## Considerations
 
