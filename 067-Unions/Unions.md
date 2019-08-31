@@ -2,7 +2,7 @@
 
 Unions is a bit like a struct or a class type, except that **it can only occupy the memory of one member at a time.**
 
-It can be used in combination with type punning, and normally are used anonimously.
+It can be used in combination with type punning, and normally are used anonymously.
 
 ```cpp
 #include <iostream>
