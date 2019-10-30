@@ -59,6 +59,7 @@ A huge thank to you mate! If you like this material please consider contributing
 * [75 - Structured Bindings (C++17)](075-StructuredBindings/StructuredBindings.md)
 * [76 - Handling Optional Data - ```std::optional```](076-OptionalData/OptionalData.md)
 * [77 - Multiple TYPES of Data in a Single Variable](077-MultipleTypesSingleVariable/MultipleTypesSingleVariable.md) ```std::variant``` (C++17)
+* [78 - How to store ANY data in C++](078-HowToStoreAnyData/HowToStoreAnyData.md) ```std::any``` (C++17)
 
 ## Considerations
 
