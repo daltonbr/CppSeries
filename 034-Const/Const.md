@@ -3,7 +3,7 @@
 [Video](https://www.youtube.com/watch?v=4fJBrditnJU&index=34&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
 
 `const` is a keyword in cpp that 'promises' to not change something. this thing will be 'constant' =)
-You can break that promises too.
+You can break those promises too.
 
 ```cpp
 #include <iostream>
