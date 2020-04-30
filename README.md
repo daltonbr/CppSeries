@@ -62,6 +62,10 @@ A huge thank to you mate! If you like this material please consider contributing
 * [78 - How to store ANY data in C++](078-HowToStoreAnyData/HowToStoreAnyData.md) ```std::any``` (C++17)
 * [79 - How to make C++ run Faster](079-HowToMakeCppRunFaster/HowToMakeCppRunFaster.md) ```std::async```
 
+## From another sources
+
+[STL Algorithms](_STLAlgorithms/STLAlgorithms.md)
+
 ## Considerations
 
 * The number on the folders are the index of the videos on the YouTube Playlist to facilitate searching the videos
