@@ -23,7 +23,7 @@ int main()
 }
 ```
 
-In the example above, we are getting the address of that ```HelloWorld``` function, note that we just need to remove the ```()`` to make our intent clear, that we don't want to execute (or get the output of) the function.
+In the example above, we are getting the address of that `HelloWorld` function, note that we just need to remove the `()` to make our intent clear, that we don't want to execute (or get the output of) the function.
 
 ```cpp
 //Equivalent assignment, but more explicit.
@@ -31,7 +31,7 @@ In the example above, we are getting the address of that ```HelloWorld``` functi
 auto function = &HelloWorld;
 ```
 
-Since the type name of these function pointers are a little bit cumbersome, normally we can use ```auto``` or ```typedef```'en into a more *"friedly"* type, basic creating an alias.
+Since the type name of these function pointers are a little bit cumbersome, normally we can use `auto` or `typedef`'en into a more *"friednly"* type, basic creating an alias.
 
 ```cpp
 void HelloWorld()
